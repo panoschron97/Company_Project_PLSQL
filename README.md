@@ -1,4 +1,4 @@
-# Company_Project_PL_SQL
+# Company_Project_PLSQL
 
 I developed a serious script based on a company management system with Oracle PL/SQL.
 
