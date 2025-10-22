@@ -46,7 +46,7 @@ This repository contains PL/SQL scripts and related resources for a company proj
     ```bash
     ./LINUX_BASH_SCRIPTS/bash_scripts/sample.sh
     ```
-    You will be prompted for the username, password, database connection string, and the SQL script path.
+    You will be prompted for the username, password, database connection string and the SQL script path.
 
 ## Dependencies
 
