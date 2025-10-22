@@ -1,4 +1,4 @@
-# Company_Project_PLSQL
+# Company project Oracle PL/SQL
 
 ## Project Description
 
@@ -19,9 +19,6 @@ This repository contains PL/SQL scripts and related resources for a company proj
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
