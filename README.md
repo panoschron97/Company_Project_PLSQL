@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository contains PL/SQL scripts and related resources for a company project including database setup, data manipulation and user management. It also features bash scripts and supporting documentation such as screenshots and configuration files. The primary goal is to provide a structured environment for managing and interacting with a company's database.
+This repository contains a PL/SQL script for a company.
 
 ## Features
 
