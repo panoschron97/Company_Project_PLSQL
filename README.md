@@ -2,12 +2,12 @@
 
 ## Project Description
 
-This repository contains PL/SQL scripts and related resources for a company project, including database setup, data manipulation, and user management. It also features bash scripts and supporting documentation, such as screenshots and configuration files. The primary goal is to provide a structured environment for managing and interacting with a company's database.
+This repository contains PL/SQL scripts and related resources for a company project including database setup, data manipulation and user management. It also features bash scripts and supporting documentation such as screenshots and configuration files. The primary goal is to provide a structured environment for managing and interacting with a company's database.
 
 ## Features
 
-- **PL/SQL Scripts:** Includes scripts for creating and managing database objects, users, and roles.
-- **Data Manipulation:** Demonstrates INSERT, UPDATE, and DELETE operations on various tables.
+- **PL/SQL Scripts:** Includes scripts for creating and managing database objects, users and roles.
+- **Data Manipulation:** Demonstrates INSERT, UPDATE and DELETE operations on various tables.
 - **Trigger Implementation:** Shows how to create and use database triggers for logging and auditing.
 - **Bash Scripts:** Contains shell scripts for automating database tasks.
 - **Supporting Documentation:** Provides screenshots and configuration files for reference.
