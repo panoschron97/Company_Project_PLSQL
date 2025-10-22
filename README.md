@@ -44,5 +44,5 @@ This repository contains a PL/SQL script for a company.
 
 ## Dependencies
 
--   **Oracle Database:** Required for running the PL/SQL scripts.
+-   **Oracle Database:** Required for running the PL/SQL script.
 -   **SQL*Plus:** Oracle's command-line interface for executing SQL and PL/SQL.
